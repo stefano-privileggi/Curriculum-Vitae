@@ -1,0 +1,51 @@
+body {
+  background-color: white ;
+  font-size: 27px;
+  color: black;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+.top-container {
+  margin: auto ;
+  background-color: #f7e7bd ;
+  text-align: center;
+}
+
+.myinfo-table {
+  padding-top: 25px;
+  padding-left: 35px;
+  text-align: left;
+}
+
+
+
+.education-table {
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+.education-right-cell {
+  padding-left: 80px ;
+}
+
+.courses-address {
+  padding-left: 80px ;
+}
+
+.work-experience-table {
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+  padding-left: 10px;
+}
+
+.work-experience-right-cell {
+  padding-left: 80px ;
+}
+
+.courses-list {
+  padding-left: 20px ;
+padding-top: 0px;
+  margin: 0 auto ;
+
+}
